@@ -3,7 +3,7 @@ Deploy a simple contract on EVM L1 & L2 using Remix
 
 
 
-1.   Download Workspace satoshi vm
+1.   Download Workspace Satoshi VM
 
 2.   Goto Remix IDE by clicking <a href=https://remix.ethereum.org/>here
 
